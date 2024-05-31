@@ -1,0 +1,13 @@
+EXTM3U
+#EXTINF:-1,Urban Documentation
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:-1,Urban Series
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1,Urban Movies
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1,Old Series HD
+http://200.194.238.229:8383/live/oldseries/playlist.m3u8
+#EXTINF:-1,Ürban Retro HD
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:-1,Ürban Travel HD
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
